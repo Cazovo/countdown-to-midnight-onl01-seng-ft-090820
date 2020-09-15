@@ -7,5 +7,5 @@ def countdown
   end
 end
 
-def countdown_with_sleep
+countdown
   
